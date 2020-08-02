@@ -1,5 +1,6 @@
 # Airhead-Academy
-A remake of the Airhead Academy visual novel in renpy
+
+A remake of the Airhead Academy visual novel, by BimbosonaDev, in renpy
 
 Writing
 
